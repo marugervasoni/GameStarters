@@ -19,7 +19,7 @@ Partimos de una base de datos llamada STEAM con información relevate sobre vide
 ## Storytelling de la presentación del trabajo realizado
 ***
 ### Screenshot
-![presentación](./img/image.png)
+![presentación](./img/carátula.png)
 
 - Somos GAME STARTERS, una **comunidad de gamers que busca facilitar el proceso de inserción al mundo de los videojuegos para aquellas personas que nunca hayan jugado de forma online en su vida**.
 
@@ -54,5 +54,7 @@ Partimos de una base de datos llamada STEAM con información relevate sobre vide
     - SI. Generalmente los juegos se encuentran disponibles en más de una plataforma como muestra nuestro grafico y más aún a partir de los ultimos 8 años aproximadamente, en los cuales hubo un incremento en el lanzamiento de videojuegos multiplataforma. 
     - Con toda esta información podríamos pensar que la edad que tenga nuestro potencial jugador puede ser un problema pero esto no es así, ya que la mayoría de los juegos no tienen una edad determinada como requisito. 
     - Finalmente, con todo este analisis queremos saber cual es el ansiado juego que vamos a jugar si queremos ingresar a esta comunidad... así que podemos decirles que **nuestro recomendado numero 1**, y más de uno puede estar de acuerdo...**es el famosisimo y queridisimo clasico COUNTER STRIKE**, con un total increible de valoraciones positivas y al cual le siguen en el podio el DOTA 2 y TEAM FORTRESS 2.
+
+    ![Dashboard](./img/dashboardGS.png)
 
 - Asi que esto y mucho más es lo que podemos ofrecer a quienes quieran ingresar al mundo más divertido de todos, **QUE COMIENCE EL JUEGO y MUCHAS GRACIAS.**
