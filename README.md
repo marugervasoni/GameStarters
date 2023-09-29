@@ -32,8 +32,7 @@ Partimos de una base de datos llamada STEAM con información relevate sobre vide
     ¿Qué costo tiene?
     ¿Cuantos niveles voy a jugar?
     ¿Vale la pena este juego?
-
-**para que el ingreso al mundo de los videojuegos además de ser una muy buena experiencia, sea la mejor decisión**.
+    **para que el ingreso al mundo de los videojuegos además de ser una muy buena experiencia, sea la mejor decisión**.
     
 - PARA DAR UN CONTEXTO: **Según Sentinel Report, en el año 2021 había alrededor de 3.240 millones de gamers en todo el mundo**. **Solamente en Argentina ya había más de 19 millones, es decir aproximadamente un 42% del total de sus habitantes (**Según la Asociación de Deportes Electrónicos y Electromecánicos de Argentina)
 
